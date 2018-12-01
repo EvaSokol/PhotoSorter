@@ -1,7 +1,16 @@
+#! c:\Python\Python37\python.exe
+
 import os
 import piexif
 import shutil
 import sys
+
+
+# import importlib.util
+# spec = importlib.util.spec_from_file_location("module.name", "c:\Python\Python37\Lib\site-packages\piexif\__init__.py")
+# foo = importlib.util.module_from_spec(spec)
+# spec.loader.exec_module(foo)
+# foo.MyClass()
 
 dir_path = 'm:\\test_photo\\'
 
